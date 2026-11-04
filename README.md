@@ -13,6 +13,8 @@ A Python-based automation tool built to scrape website pages, analyze HTML Title
 - Pandas
 
 ## Sample Output
-*(<img width="1341" height="635" alt="image" src="https://github.com/user-attachments/assets/779f1e11-ecae-415f-917b-add0232038a4" />
-)*
+<img width="1341" height="635" alt="image" src="https://github.com/user-attachments/assets/779f1e11-ecae-415f-917b-add0232038a4" />
+
+[![[Open In Colab](https://google.com)](https://colab.research.google.com/drive/1FBJwTTGtjaoif2OcJk_DBsWyb1By54mN?usp=sharing)](Aapki_Google_Colab_Notebook_Ka_Link)
+
 # SEO-Title-Audit-Automation
